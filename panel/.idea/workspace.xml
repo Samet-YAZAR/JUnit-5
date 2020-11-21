@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0311be34-52bb-48be-b4cf-b0d0eb9e3a51" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:\IntelliJ IDEA Community Edition 2020.2.3\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kba78KC79cBxiD5SQTRzdrdoG5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Maven-Sample-App/panel" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0311be34-52bb-48be-b4cf-b0d0eb9e3a51" name="Default Changelist" comment="" />
+      <created>1605971576482</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605971576482</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Create a project with Maven &#10;Configure pom.xml file with org.agache.maven.plugins">
+      <created>1605972714083</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605972714083</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Create a project with Maven &#10;Configure pom.xml file with org.agache.maven.plugins" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create a project with Maven &#10;Configure pom.xml file with org.agache.maven.plugins" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="426" y="128" key="#Inspections" timestamp="1605972073180">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="426" y="128" key="#Inspections/0.0.1600.900/-144.-1080.1920.1080@0.0.1600.900" timestamp="1605972073180" />
+    <state x="280" y="24" key="#Project_Structure" timestamp="1605973144758">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="280" y="24" key="#Project_Structure/0.0.1600.900/-144.-1080.1920.1080@0.0.1600.900" timestamp="1605973144758" />
+    <state x="580" y="205" key="FileChooserDialogImpl" timestamp="1605973166399">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="580" y="205" key="FileChooserDialogImpl/0.0.1600.900/-144.-1080.1920.1080@0.0.1600.900" timestamp="1605973166399" />
+    <state x="392" y="170" key="Vcs.Push.Dialog.v2" timestamp="1605972723215">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="392" y="170" key="Vcs.Push.Dialog.v2/0.0.1600.900/-144.-1080.1920.1080@0.0.1600.900" timestamp="1605972723215" />
+  </component>
+</project>
